@@ -1,0 +1,4 @@
+Candidate Name - Arjun Rao  
+Phone Number: 08012345678  
+Email Address: arjun.rao@protonmail.com  
+Skills: Java, Spring Boot, Hibernate

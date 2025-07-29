@@ -1,0 +1,4 @@
+Name = Mohit Verma  
+Email = mohitverma98@hotmail.com  
+Contact No = 8765432109  
+Skills: java,ner,python

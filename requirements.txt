@@ -1,0 +1,4 @@
+# No external dependencies currently required
+# For future PDF support:
+# pdfminer.six==20221105
+# PyMuPDF==1.23.7
