@@ -38,16 +38,12 @@ resume-parser/
 
 1. Clone the repository or download the folder:
 
-```bash
 git clone https://github.com/your-username/resume-parser.git
 cd resume-parser
 Place your .txt resumes inside the resumes/ folder.
 
 Run the main script:
 
-bash
-Copy
-Edit
 python main.py
 You’ll see output like:
 
@@ -116,3 +112,4 @@ This is a beginner-friendly and extendable project, great for:
 
 Made with  by **Trashu**  
 `NLP Freelancer & Engineer`
+
