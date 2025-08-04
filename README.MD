@@ -90,26 +90,11 @@ nlp
 
 coding
 
-
-## Notes
-
-- Currently, the parser works with `.txt` resumes only.  
-- If you want to support PDF resumes, you can integrate a PDF parser like **pdfminer** or **PyMuPDF** in future versions.
-
----
-
-## About
-
-This is a beginner-friendly and extendable project, great for:
-
-- Freelance demo portfolios 
-- Learning **regex-based text extraction*
-- Resume parsing basics without external ML libraries
-
 ---
 
 ## Author
 
 Made with  by **Trashu**  
 `NLP Freelancer & Engineer`
+
 
